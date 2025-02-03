@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swaroop489
+- 👋 Hi, I’m Swaroop Sandanshive
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently pursuing Bachelor's in Engineering B.E in Computer Engineering from Savitribai Phule Pune University
 
