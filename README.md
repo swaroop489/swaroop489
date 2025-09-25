@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaroop Sandanshive</h1>
-<h3 align="center">🚀 Data Scientist | AI/ML Enthusiast | Cloud Practitioner</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swaroop-724/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
