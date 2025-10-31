@@ -53,6 +53,7 @@
 </p>
 
 ---
+
 <!--
 ## 🚀 Featured Projects
 
@@ -61,8 +62,12 @@
 🔹 [AI File Prefetching (Research)](#) – Graph Neural Networks for intelligent caching  
 
 ---
-
 -->
+
+## Hacktoberfest 2025
+[![An image of @swaroop643's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swaroop643)](https://holopin.io/@swaroop643)
+
+---
 
 ## 📫 Connect with Me
 
@@ -71,3 +76,5 @@
 <!-- 🌐 [GitHub Portfolio](https://github.com/swaroop489)  -->
 
 ---
+
+
