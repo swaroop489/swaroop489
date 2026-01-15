@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaroop Sandanshive</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI/ML Enthusiast </h3>
+<h3 align="center">🚀 Passionate about Cloud Native Architecture & AI Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swaroop-724/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -11,31 +11,40 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently growing in **AI/ML, Cloud Computing (AWS), DSA, Data Science**  
-- 👯 Looking to collaborate on **AI/ML & Cloud-based Projects**  
-- 🎯 Goal: To build **scalable AI solutions** that solve real-world problems  
-- ⚡ Fun fact: I love turning **data into insights** & exploring **new technologies**  
+- 🌱 Currently growing in **Backend Engineering, System Design, and Cloud Architecture (AWS)**
+- 👯 Looking to collaborate on **Open Source DevOps tools & Scalable Microservices**
+- 🎯 Goal: To engineer **production-grade distributed systems** that support AI workloads
+- ⚡ Fun fact: I love optimizing **API latency** & automating workflows with **CI/CD**
 
 ---
 
 
  ## 🛠 Tech Stack
-
-### Languages & Tools  
+  
+### Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-### AI/ML & Cloud  
+### Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+### AI Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 </p>
 
 
