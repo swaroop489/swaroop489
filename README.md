@@ -61,6 +61,7 @@
   <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api/top-langs/?username=swaroop489&layout=compact&count_private=true"/>
 </p>
 
+[![Swaroop Sandanshive's GitHub Activity](https://readme-activity-graph.vercel.app/graph?username=swaroop489&theme=github-compact)](https://github.com/swaroop489)
 
 
 
