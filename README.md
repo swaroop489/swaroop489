@@ -7,6 +7,9 @@
   <a href="https://github.com/swaroop489"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
+
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -14,7 +17,7 @@
 - 🌱 Currently growing in **Backend Engineering, System Design, and Cloud Architecture (AWS)**
 - 👯 Looking to collaborate on **Open Source DevOps tools & Scalable Microservices**
 - 🎯 Goal: To engineer **production-grade distributed systems** that support AI workloads
-- ⚡ Fun fact: I love optimizing **API latency** & automating workflows with **CI/CD**
+
 
 ---
 
@@ -23,30 +26,14 @@
   
 ### Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,nodejs,react&perline=6" />
 </p>
+
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,mongodb,git&perline=5" />
 </p>
-
-### AI Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-</p>
-
 
 ---
 
@@ -61,9 +48,6 @@
   <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api/top-langs/?username=swaroop489&layout=compact&count_private=true" height="160"/>
   <img src="https://readme-activity-graph.vercel.app/graph?username=swaroop489&theme=github-compact" height="160"/>
 </p>
-
-
-
 
 
 
@@ -84,12 +68,7 @@
 
 ---
 
-## 📫 Connect with Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/swaroop-724/)  
-<!--📧 swaroopsandanshive@gmail.com  -->
-<!-- 🌐 [GitHub Portfolio](https://github.com/swaroop489)  -->
 
----
 
 
