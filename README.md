@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api?username=swaroop489&count_private=true" height="160"/>
+  <!-- <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api?username=swaroop489&count_private=true" height="160"/> -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=swaroop489" height="160"/>
 </p>
 
