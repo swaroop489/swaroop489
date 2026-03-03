@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Swaroop Sandanshive</h1>
-<h3 align="center">🚀 Passionate about Cloud Native Architecture & AI Systems</h3>
+<h1 align="center">Swaroop Sandanshive</h1>
+<h3 align="center">Passionate about Cloud Native Architecture & AI Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swaroop-724/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="mailto:swaroopsandanshive@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a> -->
-  <a href="https://github.com/swaroop489"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:swaroopsandanshive@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 
@@ -51,7 +50,6 @@
 
 ---
 
-
-
-
-
+<p align="center">
+  <i>Optimizing for scalability and high availability.</i>
+</p>
