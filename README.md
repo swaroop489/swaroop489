@@ -40,31 +40,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api?username=swaroop489&count_private=true" height="160"/> -->
+
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=swaroop489" height="160"/>
+  <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api/top-langs/?username=swaroop489&layout=compact&count_private=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api/top-langs/?username=swaroop489&layout=compact&count_private=true" height="160"/>
-  <img src="https://readme-activity-graph.vercel.app/graph?username=swaroop489&theme=github-compact" height="160"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=swaroop489&theme=github-compact&area=true&hide_border=true" width="100%" />
 </p>
-
-
-
----
-
-<!--
-## 🚀 Featured Projects
-
-🔹 [Student Database Management System](#) – A MERN app to manage student data  
-🔹 [Movie Recommendation System](#) – AI-based movie recommender using ML models  
-🔹 [AI File Prefetching (Research)](#) – Graph Neural Networks for intelligent caching  
-
----
--->
-
-## Hacktoberfest 2025
-[![An image of @swaroop643's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swaroop643)](https://holopin.io/@swaroop643)
 
 ---
 
