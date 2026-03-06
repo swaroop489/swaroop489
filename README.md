@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Cloud Native Architecture & AI Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swaroop-724/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/swaroop-sandanshive/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:swaroopsandanshive@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
