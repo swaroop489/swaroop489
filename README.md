@@ -44,10 +44,6 @@
   <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api/top-langs/?username=swaroop489&layout=compact&count_private=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=swaroop489&theme=github-compact&area=true&hide_border=true" width="100%" />
-</p>
-
 ---
 
 <p align="center">
