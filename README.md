@@ -17,17 +17,27 @@
 
 ---
 
- ## 🛠 Tech Stack
-  
-### Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,nodejs,react&perline=6" />
-</p>
+### 🛠 Tech Stack
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,mongodb,git&perline=5" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Languages-white?style=flat-square&logoColor=black" height="22"/>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,nodejs,react&theme=light" height="40" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Cloud%20%26%20Infra-white?style=flat-square&logoColor=black" height="22"/>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git&theme=light" height="40" />
+    </td>
+    <td width="34%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Data%20%26%20Systems-white?style=flat-square&logoColor=black" height="22"/>
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="40" />
+    </td>
+  </tr>
+</table>
 
 ---
 
