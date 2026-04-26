@@ -17,9 +17,9 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/Languages-white?style=flat-square&logoColor=black" height="22"/>
@@ -44,9 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=swaroop489" height="160"/>
-  <img src="https://github-readme-stats-rouge-delta-85.vercel.app/api/top-langs/?username=swaroop489&layout=compact&count_private=true" height="160"/>
 </p>
 
 ---
